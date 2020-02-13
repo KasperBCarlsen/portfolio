@@ -1,0 +1,21 @@
+/*
+ Theme Name:   Hamilton-child
+ Theme URI:    https://kaspercarlsen.dk
+ Description:  Hamilton Child Theme based on Hamilton Mother Theme
+ Author:       Kasper Carlsen
+ Author URI:   https://kaspercarlsen.dk
+ Template:     hamilton
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  hamiltonchild
+*/
+
+* { background-color: pink};
+
+body a {
+    font-size: 3rem;
+    color: fuchsia;
+    letter-spacing: 1.3rem;
+}
